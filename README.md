@@ -1,7 +1,5 @@
 # Support discord server: https://discord.gg/kEjumZKq6E
 
-## **All of the hacks are located at https://schoolcheats.net/blooket**
-
 # The Blooket Hack
 
 ## Visitor Count
