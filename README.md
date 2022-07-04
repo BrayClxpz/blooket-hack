@@ -41,7 +41,7 @@ Here is how to use the hacks with videos showing step-by-step how to install the
 
 This only works if inspect element enabled and you can open console. If inspect is disabled for you scroll down for the bookmarklet method.
 
-https://user-images.githubusercontent.com/73669084/142779206-6cef86be-b2a5-4958-8637-cb6bde2a42da.mp4
+https://www.youtube.com/watch?v=OqqpsE66xwk&ab_channel=STFUCOMZ
 
 
 ### Bookmarklet method
@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/73669084/142779206-6cef86be-b2a5-4958-
 4. Type `javascript:`
 5. Paste in the code
 
-https://user-images.githubusercontent.com/58097612/145106447-4fd27355-3a2c-4b0e-8976-3fc51ba8aae8.mp4
+https://www.youtube.com/watch?v=Z_J4HHaRenY&ab_channel=STFUCOMZ
 
 
 # Important
