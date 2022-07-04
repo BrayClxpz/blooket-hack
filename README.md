@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/73669084/142779206-6cef86be-b2a5-4958-
 
 
 ### Bookmarklet method
-~~https://streamable.com/t4u7i7~~
+~~https://streamable.com/5a38d1~~
 
 1. Make a bookmark (the star on the right side of the url bar if you are using chrome)
 2. Click on more at the bottom left corner
