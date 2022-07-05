@@ -19,7 +19,9 @@
  **Blooket Hacks made by [jude](https://discord.gg/kEjumZKq6E)**
       
  **The amazing [footer](https://github.com/lmfao-jude/blooket-hack/blob/main/footer.js) made by [gliz](https://twitter.com/glizuwu)**
-
+      
+## Info 
+  
 This hack is:
 - Always working.
 - Actively updated.
