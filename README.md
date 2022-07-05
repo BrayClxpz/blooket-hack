@@ -1,6 +1,6 @@
 # Support discord server: https://discord.gg/kEjumZKq6E
 
-# The Blooket Hack
+# Blooket Hack
 
 ## Visitor Count
   <img src="https://profile-counter.glitch.me/blooket-hack/count.svg" />
@@ -14,14 +14,15 @@
     <a href="https://discordapp.com/invite/kEjumZKq6E" title="Chat on Discord"><img alt="Discord Status" src="https://discordapp.com/api/guilds/991682940041965639/widget.png"></a>
   </p>
 
- 
- **The Blooket Hack provided by [jude](https://discord.gg/kEjumZKq6E)**
+ ## Credits
 
-Why you should use this tool:
+ **Blooket Hacks made by [jude](https://discord.gg/kEjumZKq6E)**
+ **The amazing [footer](https://github.com/lmfao-jude/blooket-hack/blob/main/footer.js) made by [gliz](https://twitter.com/glizuwu)**
+
+This hack is:
 - Always working.
-- When the hacks break it usually gets fixed in about 6-8 hours.
-- This tool is actively being updated so nothing breaks.
-- Used by hundreds of thousands people.
+- Actively updated.
+- And more!
 
 All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please [open a issue here](https://github.com/lmfao-jude/blooket-hack/issues).
 
@@ -54,15 +55,3 @@ https://www.youtube.com/watch?v=OqqpsE66xwk&ab_channel=STFUCOMZ
 5. Paste in the code
 
 https://www.youtube.com/watch?v=Z_J4HHaRenY&ab_channel=STFUCOMZ
-
-
-# Important
-
-Blooket is now banning people who are using hacks.
-
-**I just wanted to say that I'm not responsible if you get banned. I'm not responsible for your actions.**
-
-## PoC
-![image](https://user-images.githubusercontent.com/73669084/148287287-44fd3b5f-43d9-49be-bf9f-7d445d366bfd.png)
-![image](https://user-images.githubusercontent.com/73669084/148287302-8693c202-6968-4cf3-811f-05cbd0fd8b2f.png)
-![image](https://user-images.githubusercontent.com/73669084/148287313-30793b91-b0d1-430b-879b-398a23b9b197.png)
