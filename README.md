@@ -1,5 +1,3 @@
-# Support discord server: https://discord.gg/kEjumZKq6E
-
 # Blooket Hack
 
 ## Visitor Count
